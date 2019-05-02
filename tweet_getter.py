@@ -65,18 +65,3 @@ if __name__ == '__main__':
         get_all_tweets('FoxNews')
         get_all_tweets('MSNBC')
         get_all_tweets('NBCNews')
-        
-        
-        #auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-        #auth.set_access_token(access_key, access_secret)
-        #api = tweepy.API(auth)
-        #user = api.get_user('realDonaldTrump')
-        #print user.screen_name
-        #print user.followers_count
-        
-
-        #id_of_tweet = 1122380201906905088
-        #tweet = api.get_status(id_of_tweet)
-        #print(tweet.text)
-        #print(tweet.retweet_count)
-        #print(tweet.favorite_count)

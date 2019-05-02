@@ -1,5 +1,15 @@
 #The output will be ID, Retweets, Likes
 # Terms: Trump, Russia, Republican, Democratic, Shooting, White House, Mueller
+
+#In order to add total number of likes and retweets I had to clean the csv of any lines that were not numerical
+#using the sed command below I strip any lines that don't start with an int and any chars that are not ints
+#then they are cat into a new csv call *_Tweet_IDs.csv
+
+#I use the orginial csv files to perform the word search count using grep -0 'term' file | wc -l
+
+
+
+
 cat CNN_tweets.csv | sed '/^[^0-9]/d' | sed '/^$/d' > CNN_Tweet_IDs.csv
 echo "Total CNN Likes: "
 awk -F',' '{sum+=$3} END {print sum}' CNN_Tweet_IDs.csv
