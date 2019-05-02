@@ -1,0 +1,76 @@
+Total CNN Likes: 
+1934899
+ 
+Total MSNBC Likes: 
+1170437
+ 
+Total Fox News Likes: 
+2536150
+ 
+Total NBC News Likes: 
+498857
+ 
+CNN: 
+Trump
+377
+Russia
+49
+Republican
+20
+Democratic
+102
+Liberal
+0
+White House
+71
+Fake
+1
+ 
+Fox News: 
+Trump
+321
+Russia
+25
+Republican
+135
+Democratic
+68
+Liberal
+0
+White House
+19
+Fake
+0
+ 
+MSNBC: 
+Trump
+787
+Russia
+51
+Republican
+44
+Democratic
+76
+Liberal
+0
+White House
+132
+Fake
+0
+ 
+NBC News: 
+Trump
+274
+Russia
+38
+Republican
+16
+Democratic
+22
+Liberal
+0
+White House
+68
+Fake
+0
+ 
