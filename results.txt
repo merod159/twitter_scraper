@@ -1,14 +1,7 @@
 Total CNN Likes: 
-1934899
- 
-Total MSNBC Likes: 
-1170437
- 
-Total Fox News Likes: 
-2536150
- 
-Total NBC News Likes: 
-498857
+1938325
+Total CNN retweets: 
+627735
  
 CNN: 
 Trump
@@ -19,12 +12,17 @@ Republican
 20
 Democratic
 102
-Liberal
+Shooting
 0
 White House
 71
-Fake
-1
+Mueller
+206
+ 
+Total Fox News Likes: 
+2536183
+Total Fox News Retweets: 
+822286
  
 Fox News: 
 Trump
@@ -35,12 +33,17 @@ Republican
 135
 Democratic
 68
-Liberal
-0
+Shooting
+8
 White House
 19
-Fake
-0
+Mueller
+11
+ 
+Total MSNBC Likes: 
+1175489
+Total MSNBC Retweets: 
+794687
  
 MSNBC: 
 Trump
@@ -51,12 +54,17 @@ Republican
 44
 Democratic
 76
-Liberal
+Shooting
 0
 White House
 132
-Fake
-0
+Mueller
+448
+ 
+Total NBC News Likes: 
+499545
+Total NBC News Retweets: 
+274321
  
 NBC News: 
 Trump
@@ -67,10 +75,10 @@ Republican
 16
 Democratic
 22
-Liberal
-0
+Shooting
+2
 White House
 68
-Fake
-0
+Mueller
+180
  
